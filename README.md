@@ -1,5 +1,5 @@
 # android_vendor_lge_cv1
-Don't use this yet, It's not finished!
+Do not use this yet, It's not finished.
 ## Spec Sheet
 <table>
   <tr>
