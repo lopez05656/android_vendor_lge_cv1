@@ -1,5 +1,5 @@
 # Vendor Tree for LG Aristo 2 (LM-X210/LM-X212)
-Do not use this yet, It's not finished.
+Don't use this yet, I haven't finished working on it!
 ## Spec Sheet
 <table>
   <tr>
