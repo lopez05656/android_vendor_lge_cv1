@@ -1,4 +1,4 @@
-# android_vendor_lge_cv1
+# Vendor Tree for LG Aristo 2 (LM-X210/LM-X212)
 Do not use this yet, It's not finished.
 ## Spec Sheet
 <table>
