@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/cv1/proprietary/vendor/etc/acdbdata/Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Hdmi_cal.acdb \
     vendor/lge/cv1/proprietary/vendor/etc/acdbdata/Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Headset_cal.acdb \
     vendor/lge/cv1/proprietary/vendor/etc/acdbdata/Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Speaker_cal.acdb \
+    vendor/lge/cv1/proprietary/vendor/etc/apdr.conf:$(TARGET_COPY_OUT_VENDOR)/etc/apdr.conf \
     vendor/lge/cv1/proprietary/vendor/etc/camera/camera_config.xml:system/etc/camera/camera_config.xml \
     vendor/lge/cv1/proprietary/vendor/etc/camera/film/0_film.dat:system/etc/camera/film/0_film.dat \
     vendor/lge/cv1/proprietary/vendor/etc/camera/film/10_film.dat:system/etc/camera/film/10_film.dat \
